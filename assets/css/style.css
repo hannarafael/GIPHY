@@ -1,0 +1,29 @@
+#music {
+    visibility: hidden;
+  }
+
+body {
+    background-image: url("https://avante.biz/wp-content/uploads/Wallpaper-Barbie/Wallpaper-Barbie-012.jpg");
+    align-content: center;
+    background-repeat: repeat;
+    background-color: pink;
+}
+
+#instructions {
+    margin: 10px;
+    color: rgb(212, 92, 176);
+}
+
+.btn {
+    margin: 10px;
+}
+
+p {
+    color:black;
+}
+
+#searchbar{
+    background-color:pink;
+
+}
+
